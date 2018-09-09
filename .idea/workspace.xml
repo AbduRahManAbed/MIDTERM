@@ -3,47 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58cf8f1f-f95b-47e6-b61b-951366c80921" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018" beforeDir="false" afterPath="$PROJECT_DIR$/MidtermJuly2018" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/algorithm/Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/algorithm/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/algorithm/UnitTestSorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/codelab/status/CsvReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/codelab/status/Trainee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/databases/ConnectToMongoDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/databases/ConnectToSqlDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/databases/UnitTestConnectDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/databases/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/datastructure/CollectionView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/datastructure/DataReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/datastructure/UseArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/datastructure/UseMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/datastructure/UseQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/design/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/design/EmployeeInfo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/design/EmployeeInfo$DateConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/design/EmployeeInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/design/FortuneEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/design/Months.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/design/UnitTestingEmployeeInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/math/problems/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/math/problems/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/math/problems/FindLowestDifference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/math/problems/FindMissingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/math/problems/LowestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/math/problems/MakePyramid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/math/problems/Pattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/math/problems/PrimeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/math/problems/UnitTestingMath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/parser/ProcessStudentInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/parser/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/parser/UnitTestingStudentProfile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/parser/XmlReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/string/problems/Anagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/string/problems/DetermineLargestWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/string/problems/DuplicateWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/string/problems/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/string/problems/Permutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/string/problems/UnitTestingStringProblem.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,6 +29,16 @@
         <counts>
           <entry key="JAVA" value="9" />
           <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
     </session>
@@ -111,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MidtermJuly2018/src/algorithm/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -233,7 +202,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="plugins&#9;ACTION&#9;WelcomeScreen.Plugins" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536509377881" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536509541139" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -282,6 +251,14 @@
       <option name="presentableId" value="Default" />
       <updated>1536501854872</updated>
     </task>
+    <task id="LOCAL-00001" summary="MidTerm1">
+      <created>1536509482977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536509482978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -318,6 +295,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MidTerm1" />
+    <option name="LAST_COMMIT_MESSAGE" value="MidTerm1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MidtermJuly2018/src/databases/ConnectToMongoDB.java">
@@ -360,8 +341,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MidtermJuly2018/src/algorithm/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
