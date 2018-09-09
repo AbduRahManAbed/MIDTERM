@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58cf8f1f-f95b-47e6-b61b-951366c80921" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidtermJuly2018" beforeDir="false" afterPath="$PROJECT_DIR$/MidtermJuly2018" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/algorithm/Numbers.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/algorithm/Sort.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MidtermJuly2018/out/production/CodingExamJuly2018/algorithm/UnitTestSorting.class" beforeDir="false" />
@@ -231,7 +233,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="plugins&#9;ACTION&#9;WelcomeScreen.Plugins" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536509078622" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536509377881" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
